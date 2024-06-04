@@ -1,0 +1,44 @@
+#######################################
+# Coloring Map For BM92S2331_1 Capacitive Fingerprint Sensor Module
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+BM92S2331_1	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+
+InputEnrollID	KEYWORD2
+enroll	KEYWORD2
+stopEnroll	KEYWORD2
+
+
+identify	KEYWORD2
+stopIdentify	KEYWORD2
+
+deleteID	KEYWORD2
+deleteAll	KEYWORD2
+
+
+wakeup	KEYWORD2
+StandbyMode	KEYWORD2
+changeBaud	KEYWORD2
+
+getDeviceInformation	KEYWORD2
+getModuleSettingsInformation	KEYWORD2
+getImageSettingInformation	KEYWORD2
+
+
+userSet	KEYWORD2
+imageSet	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
